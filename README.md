@@ -45,29 +45,6 @@ I have worked on academic and applied projects involving data processing, statis
 - Streamlit
 - DBeaver
 
-## Featured Projects
-
-### DANU Analytics – Predictive Inventory & Commercial Performance Model
-**Python | Scikit-learn | Pandas | Streamlit | Prophet**
-
-Developed a predictive analytics solution focused on identifying critical overstock situations and evaluating commercial performance.
-
-- Data cleaning, preprocessing, and exploratory data analysis.
-- Statistical analysis using correlation, hypothesis testing, and ANOVA.
-- Predictive modeling using Random Forest and Logistic Regression.
-- Model evaluation using ROC-AUC, Precision, and Confusion Matrix.
-- Sales forecasting and interactive dashboard development using Streamlit and Prophet.
-- Inventory redistribution analysis to support business decision-making.
-
-### ModuRack – Plant Logistics Optimization
-**Process Improvement | Data Analysis | Logistics Optimization**
-
-Developed an academic proposal to improve plant transportation and reduce losses during transit through an optimized modular rack design.
-
-- Analyzed transportation losses and operational inefficiencies.
-- Proposed a modular transportation rack to improve loading capacity.
-- Evaluated potential reductions in product losses and operational costs.
-
 ## Areas of Interest
 
 - Data Analytics & Business Intelligence
